@@ -59,3 +59,9 @@ while IFS= read -r ip; do
 done < "$input_file"
 
 echo "Resumen guardado en $csv_file"
+
+# Elaborado por Alex Cabello Leiva - AlexCocoPro
+
+echo "Script elaborado por Alex Cabello Leiva - AlexCocoPro"
+
+echo "Resumen guardado en $csv_file"
